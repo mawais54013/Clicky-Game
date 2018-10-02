@@ -11,6 +11,7 @@ This is a classic clicky game with a disney characters theme. The objective is t
 This is the main page for the game, with 12 disney characters ranging from various movies. 
 
 ![example](Screen2.gif)
+
 This is example gif of how the program works.
 # Technology Used
 - Javascript

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Message.css";
-
+// the message will appear if the user losses
 const Message = props => (
     <div class="container">
   <div class="row">
@@ -8,7 +8,7 @@ const Message = props => (
       
     </div>
     <div class="col-sm">
-    {props.children}
+    <h2 id="head2">{props.children}</h2>
     </div>
     <div class="col-sm">
       

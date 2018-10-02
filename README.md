@@ -2,7 +2,7 @@
 
 This is a classic clicky game with a disney characters theme. The objective is to click all the character to win. If you click on the same character twice then you loose. Seems simple right, though with one twist in which the character randomly shuffle after each click. So remember which characters you clicked and try to reach the high score. 
 
-[Tech News Scraper]()
+
 
 [Portfolio](https://mawais54013.github.io/New-Portfolio/)
 
